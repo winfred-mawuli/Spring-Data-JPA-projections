@@ -31,7 +31,7 @@ Follow these steps to set up and run the application:
 
 Access the application:
 
-Once the application is running, you can access it at http://localhost:8080/todos.
+Once the application is running, you can access it at http://localhost:5000/todos.
 
 Usage
 The application exposes a REST API to perform CRUD operations on todo items. You can use tools like cURL, Postman, or a web browser to interact with the API endpoints.
